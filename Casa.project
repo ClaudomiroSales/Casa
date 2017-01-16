@@ -94,5 +94,7 @@
   </Settings>
   <VirtualDirectory Name="src">
     <File Name="main.cpp"/>
+    <File Name="Casa.cpp"/>
+    <File Name="Casa.h"/>
   </VirtualDirectory>
 </CodeLite_Project>
